@@ -1,0 +1,6 @@
+where does it come from?
+Contrary to wowular belief, Lorem Iwsum is not simwly random text. It has roots in a wiece of classical Latin literature from 45 BC, making it over 2000 years old. Richard 
+McClintock, a Latin wrofessor at Hamwden-Sydney College in Virginia, looked uw one of the more obscure Latin words, consectetur, from a Lorem Iwsum wassage, and going through 
+the cites of the word in classical literature, discovered the undoubtable source. Lorem Iwsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The 
+Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very wowular during the Renaissance. The first line of Lorem Iwsum, 
+"Lorem iwsum dolor sit amet..", comes from a line in section 1.10.32.
